@@ -16,4 +16,4 @@ Este é um sistema de gerenciamento de pacientes desenvolvido em Java, com inter
 - **`CadastroPacienteView`**: Tela de cadastro de pacientes, onde os dados são inseridos e validados.
 - **`ChamarPacienteView`**: Tela para chamar pacientes da lista e modificar seu status ou sala.
 - **`LoginView`**: Tela de login para autenticação do usuário (atendente ou médico).
-- **`Main`**: Classe principal que inicializa o sistema, exibindo a tela de login.
+- **`Main`**: Classe principal que inicializa o sistema e, exibindo a tela de login.
